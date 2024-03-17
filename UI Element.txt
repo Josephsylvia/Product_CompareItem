@@ -1,0 +1,2 @@
+<html app='chrome.exe' title='Amazon.in : iphone 15 pro max 1tb natural titanium' />
+<webctrl parentid='search' tag='SPAN' class='a-size-medium a-color-base a-text-normal' isleaf='1' parentclass='a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal' />

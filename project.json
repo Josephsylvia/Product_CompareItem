@@ -1,0 +1,81 @@
+{
+  "name": "Product_CompareItem",
+  "projectId": "ea8bb53f-2bf1-4afd-949a-9d4df181733c",
+  "description": "Compare One Product Amazon and Flipkart ",
+  "main": "Main.xaml",
+  "dependencies": {
+    "Microsoft.Azure.Management.Sql.Fluent": "[1.38.1]",
+    "Microsoft.Azure.SqlDatabase.ElasticScale.Client": "[2.4.1]",
+    "Microsoft.Data.SqlClient": "[5.2.0]",
+    "Microsoft.Data.Sqlite": "[9.0.0-preview.2.24128.4]",
+    "Microsoft.Data.Sqlite.Core": "[9.0.0-preview.2.24128.4]",
+    "Microsoft.EntityFrameworkCore.Sqlite.Core": "[9.0.0-preview.2.24128.4]",
+    "Microsoft.Extensions.Caching.SqlServer": "[9.0.0-preview.2.24128.4]",
+    "MySql.Data.EntityFrameworkCore": "[8.0.22]",
+    "NLog": "[4.7.7]",
+    "Npgsql": "[8.0.2]",
+    "Npgsql.EntityFrameworkCore.PostgreSQL": "[9.0.0-preview.1]",
+    "Omega.MySqlClient.Activities": "[1.0.0]",
+    "Oracle.ManagedDataAccess.Core": "[23.3.2-dev]",
+    "System.ComponentModel.Annotations": "[5.0.0]",
+    "System.Data.SqlClient": "[4.8.6]",
+    "System.Data.SQLite": "[1.0.118.0]",
+    "System.Data.SQLite.Core": "[1.0.118]",
+    "System.Reflection.Metadata": "[5.0.0]",
+    "UiPath.Database.Activities": "[1.8.2-preview]",
+    "UiPath.Excel.Activities": "[2.23.2-preview]",
+    "UiPath.Mail.Activities": "[1.22.1]",
+    "UiPath.System.Activities": "[24.2.0-preview]",
+    "UiPath.Testing.Activities": "[24.2.0-preview]",
+    "UiPath.UIAutomation.Activities": "[24.2.0-preview]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "24.2.1.0",
+  "projectVersion": "1.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "workflowSerialization": "DataContract",
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true,
+    "pipType": "ChildSession"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [],
+    "saveToCloud": false
+  },
+  "expressionLanguage": "VisualBasic",
+  "entryPoints": [
+    {
+      "filePath": "Main.xaml",
+      "uniqueId": "07a614cd-1260-4c0d-a904-1016c4f677bf",
+      "input": [],
+      "output": []
+    }
+  ],
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Windows"
+}
